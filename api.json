@@ -1,0 +1,112 @@
+{
+  "posts": [
+    {
+      "id": "p1",
+      "title": "Mzuzu Executive Summit 2026: Building Sustainable Urban Growth",
+      "category": "Executive Summit",
+      "date": "August 2026",
+      "author": "Mayor's Office",
+      "image": "https://images.unsplash.com/photo-1577495508048-b635879837f1?auto=format&fit=crop&q=80",
+      "body": "The Mayor of Mzuzu City hosted civil leaders to outline urban development projects aimed at transforming Mzuzu into a vibrant economic hub by 2030 through strategic planning, community engagement, and robust infrastructure development programs across all city wards."
+    },
+    {
+      "id": "p2",
+      "title": "City-Wide Food & Maize Distribution Initiative",
+      "category": "Community Relief",
+      "date": "August 2026",
+      "author": "Social Welfare",
+      "image": "https://images.unsplash.com/photo-1593113598332-cd288d649433?auto=format&fit=crop&q=80",
+      "body": "Mzuzu City Council initiates targeted maize distribution across local wards to bolster household food security and support vulnerable families during lean periods."
+    },
+    {
+      "id": "p3",
+      "title": "Upgrading M5 Transit & Drainage Networks",
+      "category": "Engineering",
+      "date": "July 2026",
+      "author": "Engineering",
+      "image": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b3?auto=format&fit=crop&q=80",
+      "body": "Engineering directorate launches infrastructural upgrades along major city roads to enhance safety, improve transportation of goods, and prevent rainy season flooding."
+    }
+  ],
+  "directorates": [
+    {
+      "id": "d1",
+      "name": "Directorate of Education",
+      "desc": "Manages public primary school infrastructure, supports Early Childhood Development (ECD) centers, and coordinates adult literacy and youth educational programs across all city wards to foster academic growth and lifelong learning opportunities."
+    },
+    {
+      "id": "d2",
+      "name": "Directorate of Planning",
+      "desc": "Oversees town planning schemes, processes building development applications, conducts site inspections, and enforces physical development guidelines to ensure orderly and sustainable urban expansion."
+    },
+    {
+      "id": "d3",
+      "name": "Directorate of Commerce & Trade",
+      "desc": "Facilitates business licensing, manages central and ward markets, allocates vendor spaces, and supports local economic development initiatives for traders and entrepreneurs."
+    },
+    {
+      "id": "d4",
+      "name": "Directorate of Engineering",
+      "desc": "Leads public infrastructure development, road repairs, storm-water drainage construction, street lighting maintenance, and municipal fleet upkeep."
+    }
+  ],
+  "charges": [
+    {
+      "id": "c1",
+      "service": "Business Premises License",
+      "category": "Retail / General Shop",
+      "fee": "MWK 45,000",
+      "freq": "Annual"
+    },
+    {
+      "id": "c2",
+      "service": "Commercial Development Permit",
+      "category": "Urban Building Inspection",
+      "fee": "MWK 120,000",
+      "freq": "Per Project"
+    },
+    {
+      "id": "c3",
+      "service": "Waste Collection Fee",
+      "category": "Residential Ward Zone A",
+      "fee": "MWK 5,000",
+      "freq": "Monthly"
+    }
+  ],
+  "forms": [
+    {
+      "id": "f1",
+      "title": "Business License Application Form (Form BL-1)",
+      "desc": "Required for initial registration and annual renewal of business premises in Mzuzu City."
+    },
+    {
+      "id": "f2",
+      "title": "Development & Building Permit Application (Form BP-2)",
+      "desc": "For individuals and developers seeking structural plan review and building approval."
+    }
+  ],
+  "about": [
+    {
+      "id": "a1",
+      "title": "Mandate & Governance",
+      "content": "Mzuzu City Council is a corporate body established under the Local Government Act of 1998. The Council is tasked with managing municipal affairs, urban planning, infrastructure maintenance, public health, and basic education delivery in Mzuzu City."
+    },
+    {
+      "id": "a2",
+      "title": "Vision & Mission",
+      "content": "Vision: A vibrant, clean, prosperous, and sustainable city by 2030. Mission: To deliver accessible, quality municipal services and facilitate socio-economic development through good governance and active civic participation."
+    }
+  ],
+  "contact": [
+    {
+      "id": "co1",
+      "title": "Civic Offices",
+      "detail": "Off M5 Corridor, Behind Mzuzu High Court, Kaning'ina, P.O. Box 1, Mzuzu"
+    },
+    {
+      "id": "co2",
+      "title": "Helpline & Support",
+      "detail": "+265 888 55 44 71 | info@mzuzucity.gov.mw"
+    }
+  ]
+}
